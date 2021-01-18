@@ -1,5 +1,5 @@
-### Hi there 👋
-😄 I am coding some cool stuff in Kotlin and Dart.
+### Hi there 👋 😄 I am coding some cool stuff in Kotlin and Dart.
+
 ![giphy](https://user-images.githubusercontent.com/26837182/104904758-8de5f300-59a7-11eb-9bc5-a7403c344aac.gif)
 <!--
 **anuj72/anuj72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
