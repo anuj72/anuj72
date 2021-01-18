@@ -1,6 +1,6 @@
 ### Hi there 👋
 😄 I am coding some cool stuff in Kotlin and Dart.
-![p3](https://user-images.githubusercontent.com/26837182/104903591-3c893400-59a6-11eb-8b46-123447e8413c.png)
+![giphy](https://user-images.githubusercontent.com/26837182/104904758-8de5f300-59a7-11eb-9bc5-a7403c344aac.gif)
 <!--
 **anuj72/anuj72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
