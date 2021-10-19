@@ -1,4 +1,4 @@
-### Hi there 👋 😄 I am coding some cool stuff in Kotlin,Dart and Go.
+### Hi there 👋 😄 I am coding some cool stuff in Kotlin,Dart and Golang.
 
 ![giphy](https://user-images.githubusercontent.com/26837182/104904758-8de5f300-59a7-11eb-9bc5-a7403c344aac.gif)
 <!--
